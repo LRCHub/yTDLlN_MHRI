@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "リライト",
+  "base_artist": "ASIAN KUNG-FU GENERATION",
+  "createdAt": "2025-12-05T05:09:08.016846Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "リライト",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/01_リライト_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rewrite 2016 [リライト 2016]",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/02_Rewrite_2016_[リライト_2016]_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rewrite [リライト]",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/03_Rewrite_[リライト]_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "リライト",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/04_リライト_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "リライト",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/05_リライト_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "リライト (2016)",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": false,
+      "path": "select/06_リライト_(2016)_ASIAN_KUNG-FU_GENERATION.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "リライト",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/07_リライト_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "リライト",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/08_リライト_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "リライト",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/09_リライト_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "リライト",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/10_リライト_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "リライト (2016 Version) (2016 Rerecorded)",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": false,
+      "path": "select/11_リライト_(2016_Version)_(2016_Rerecorded)_ASIAN_KUNG-FU_GENERATION.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rewrite (リライト Riraito)",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/12_Rewrite_(リライト_Riraito)_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "リライト",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/13_リライト_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "リライト",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": false,
+      "path": "select/pl_01_リライト_ASIAN_KUNG-FU_GENERATION.txt"
+    }
+  ]
+}
